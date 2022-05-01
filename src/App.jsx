@@ -7,7 +7,6 @@ import dice from "./images/icon-dice.svg";
 
 function App() {
   const [post, setPost] = useState("");
-  console.log(1)
   useEffect(() => {
     getPost()
     setPost(JSON.parse(localStorage.getItem("advice")));
