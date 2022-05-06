@@ -1,5 +1,5 @@
 https://calm-hamlet-06289.herokuapp.com/
 
-Random quotes from the pubcic API.
+Random quotes from a public API.
 
 REST API, axios, Flex.
